@@ -34,7 +34,21 @@
 <a href="https://ibb.co.com/LX3ZtnBr"><img src="https://i.ibb.co.com/pBSLzJNQ/image.png" alt="image" border="0"></a>
 
 ### Phone version
-<a href="https://ibb.co.com/TDLQpdcC"><img src="https://i.ibb.co.com/8ncyTtMh/image.png" alt="image" border="0"></a>
-<a href="https://ibb.co.com/1Yjp3F55"><img src="https://i.ibb.co.com/mrgYmfww/image.png" alt="image" border="0"></a>
-<a href="https://ibb.co.com/0VtxV9Jm"><img src="https://i.ibb.co.com/NnSMnNYt/image.png" alt="image" border="0"></a>
-<a href="https://ibb.co.com/B5c487tw"><img src="https://i.ibb.co.com/ks53YrxM/image.png" alt="image" border="0"></a>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://i.ibb.co.com/8ncyTtMh/image.png" alt="Скриншот 1" height="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.ibb.co.com/mrgYmfww/image.png" alt="Скриншот 2" height="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.ibb.co.com/NnSMnNYt/image.png" alt="Скриншот 3" height="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.ibb.co.com/ks53YrxM/image.png" alt="Скриншот 4" height="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    </td>
+  </tr>
+</table>
+
