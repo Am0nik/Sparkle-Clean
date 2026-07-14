@@ -8,17 +8,26 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header class="d-flex align-items-center justify-content-between p-3 position-relative" style="min-height: 80px;">
-        <div class="d-flex align-items-center" style="width: 250px;">
-            <img src="images/logo.png" alt="SparkleClean logo" style="max-height: 50px;">
-        </div>
-        <div class="d-flex gap-4 fw-bold position-absolute start-50 translate-middle-x">
-            <a href="#services" class="text-decoration-none text-dark link-primary">Services</a>
-            <a href="#pricing" class="text-decoration-none text-dark link-primary">Pricing</a>
-            <a href="#testimonials" class="text-decoration-none text-dark link-primary">Testimonials</a>
-        </div>
-        <div class="d-flex justify-content-end" style="width: 250px;">
-            <a href="#quote" class="btn btn-info text-white fw-bold px-4 py-2 rounded-pill shadow-sm">Get a Free Quote</a>
+    <header class="navbar navbar-expand-md navbar-light bg-light p-3">
+        <div class="container-fluid justify-content-between">
+            <a class="navbar-brand d-flex align-items-center" href="#" style="width: 250px; max-width: 50%;">
+              <img src="images/logo.png" alt="SparkleClean logo" style="max-height: 50px;">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-md-center position-relative-md" id="navbarNav">
+              <div class="navbar-nav gap-md-4 fw-bold my-3 my-md-0 text-center">
+                <a href="#services" class="nav-link text-dark link-primary px-0">Services</a>
+                <a href="#pricing" class="nav-link text-dark link-primary px-0">Pricing</a>
+                <a href="#testimonials" class="nav-link text-dark link-primary px-0">Testimonials</a>
+                <a href="#quote" class="btn btn-info text-white fw-bold px-4 py-2 rounded-pill shadow-sm d-md-none mt-3 mx-auto" style="width: max-content;">Get a Free Quote</a>
+              </div>
+            </div>
+            <div class="d-none d-md-flex justify-content-end" style="width: 250px;">
+              <a href="#quote" class="btn btn-info text-white fw-bold px-4 py-2 rounded-pill shadow-sm">Get a Free Quote</a>
+            </div>
+
         </div>
     </header>
 
