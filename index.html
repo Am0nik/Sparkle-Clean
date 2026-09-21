@@ -320,13 +320,13 @@
                             <form class="row g-4">
                                 <div class="col-md-6 text-start">
                                     <label for="services-l" class="form-label fw-bold text-dark">Services</label>
-                                    <select class="form-select form-select-lg" id="services-l" name="services-l" required>
-                                        <option value="" disabled selected>Select a service</option>
-                                        <option value="residential">Residential Cleaning</option>
-                                        <option value="deep">Deep Cleaning</option>
-                                        <option value="commercial">Commercial Cleaning</option>
-                                        <option value="move-in-out">Move-in/Move-out Cleaning</option>
-                                    </select>
+                                    <select id="serviceType" class="form-select">
+    <option value="" data-price="0">Выберите услугу...</option>
+    <option value="residential" data-price="120">Regular Cleaning</option>
+    <option value="deep" data-price="199">Deep Cleaning</option>
+    <option value="move-in-out" data-price="280">Move-In / Out</option>
+</select>
+
                                 </div>
                                 <div class="col-md-6 text-start">
                                     <label for="rooms" class="form-label fw-bold text-dark">Number of Bedrooms</label>
